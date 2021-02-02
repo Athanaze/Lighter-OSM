@@ -1,0 +1,8 @@
+[package]
+name = "lighter_osm"
+version = "0.1.0"
+authors = ["Athanaze <sacha.liechti@arsent.ch>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.4.3"
